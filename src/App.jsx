@@ -137,7 +137,7 @@ export default function App() {
                 <div className="parent mb-20 sm:mb-10">
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/ant.png" alt="Ant"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/ant.png?raw=true" alt="Ant"/>
                         </div>
                         <p id="antNum">{conversionData.conversions.antNum}</p>
                         <p>An ant is ~0.25cm long  <a className="cursor-pointer" onClick={() => setPresetValue(25, 'mm')}>Try this?</a></p>
@@ -145,7 +145,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/pencil.png" alt="Pencil"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/pencil.png?raw=true" alt="Pencil"/>
                         </div>
                         <p id="pencilNum">{conversionData.conversions.pencilNum}</p>
                         <p>A pencil is ~19cm long  <a className="cursor-pointer" onClick={() => setPresetValue(19, 'cm')}>Try this?</a></p>
@@ -153,7 +153,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/banana.png" alt="Banana"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/banana.png?raw=true" alt="Banana"/>
                         </div>
                         <p id="bananaNum">{conversionData.conversions.bananaNum}</p>
                         <p>A large banana is ~22.86cm long  <a className="cursor-pointer" onClick={() => setPresetValue(22.86, 'cm')}>Try this?</a></p>
@@ -161,7 +161,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/fball.png" alt="Football"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/fball.png?raw=true" alt="Football"/>
                         </div>
                         <p id="footballNum">{conversionData.conversions.footballNum}</p>
                         <p>A football is ~28.5cm long  <a className="cursor-pointer" onClick={() => setPresetValue(28.5, 'cm')}>Try this?</a></p>
@@ -169,7 +169,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/bbat.png" alt="Baseball bat"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/bbat.png?raw=true" alt="Baseball bat"/>
                         </div>
                         <p id="baseballNum">{conversionData.conversions.baseballNum}</p>
                         <p>A baseball bat is ~1.067m long  <a className="cursor-pointer" onClick={() => setPresetValue(1.067, 'm')}>Try this?</a></p>
@@ -177,7 +177,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/fridge.png" alt="Refrigerator"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/fridge.png?raw=true" alt="Refrigerator"/>
                         </div>
                         <p id="refrigeratorNum">{conversionData.conversions.refrigeratorNum}</p>
                         <p>A Refrigerator is ~1.7m tall  <a className="cursor-pointer" onClick={() => setPresetValue(1.7, 'm')}>Try this?</a></p>
@@ -185,7 +185,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/giraffe.png" alt="Giraffe"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/giraffe.png?raw=true" alt="Giraffe"/>
                         </div>
                         <p id="giraffeNum">{conversionData.conversions.giraffeNum}</p>
                         <p>A giraffe is ~5.5m tall  <a className="cursor-pointer" onClick={() => setPresetValue(5.5, 'm')}>Try this?</a></p>
@@ -193,7 +193,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/liberty.png" alt="Statue of Liberty"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/liberty.png?raw=true" alt="Statue of Liberty"/>
                         </div>
                         <p id="libertyNum">{conversionData.conversions.libertyNum}</p>
                         <p>The Statue of Liberty is ~93m tall  <a className="cursor-pointer" onClick={() => setPresetValue(93, 'm')}>Try this?</a></p>
@@ -201,7 +201,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/pyramid.png" alt="Pyramid"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/pyramid.png?raw=true" alt="Pyramid"/>
                         </div>
                         <p id="pyramidNum">{conversionData.conversions.pyramidNum}</p>
                         <p>The Great Pyramid of Giza is ~138.8m tall  <a className="cursor-pointer" onClick={() => setPresetValue(138.8, 'm')}>Try this?</a></p>
@@ -209,7 +209,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/eiffel.png" alt="Eiffel Tower"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/eiffel.png?raw=true" alt="Eiffel Tower"/>
                         </div>
                         <p id="eiffelNum">{conversionData.conversions.eiffelNum}</p>
                         <p>The Eiffel Tower is ~330m tall  <a className="cursor-pointer" onClick={() => setPresetValue(330, 'm')}>Try this?</a></p>
@@ -217,7 +217,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/khalifa.png" alt="Burj Khalifa"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/khalifa.png?raw=true" alt="Burj Khalifa"/>
                         </div>
                         <p id="khalifaNum">{conversionData.conversions.khalifaNum}</p>
                         <p>The Burj Khalifa is ~828m tall  <a className="cursor-pointer" onClick={() => setPresetValue(828, 'm')}>Try this?</a></p>
@@ -225,7 +225,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/everest.png" alt="Mount Everest"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/everest.png?raw=true" alt="Mount Everest"/>
                         </div>
                         <p id="everestNum">{conversionData.conversions.everestNum}</p>
                         <p>The Mount Everest is ~8848m tall  <a className="cursor-pointer" onClick={() => setPresetValue(8848, 'm')}>Try this?</a></p>
@@ -233,7 +233,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/coral.png" alt="Mariana Trench"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/coral.png?raw=true" alt="Mariana Trench"/>
                         </div>
                         <p id="marianatrenchNum">{conversionData.conversions.marianatrenchNum}</p>
                         <p>The Mariana Trench is ~11km deep  <a className="cursor-pointer" onClick={() => setPresetValue(11, 'km')}>Try this?</a></p>
@@ -241,7 +241,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/airplane.png" alt="Airplane"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/airplane.png?raw=true" alt="Airplane"/>
                         </div>
                         <p id="airplaneNum">{conversionData.conversions.airplaneNum}</p>
                         <p>The average cruising altitude of an airplane is ~12 km  <a className="cursor-pointer" onClick={() => setPresetValue(12, 'km')}>Try this?</a></p>
@@ -249,7 +249,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-10 h-10" src="/src/assets/moon.png" alt="Moon"/>
+                            <img className="w-10 h-10" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/moon.png?raw=true" alt="Moon"/>
                         </div>
                         <p id="moonNum">{conversionData.conversions.moonNum}</p>
                         <p>The Moon&#39;s diameter is ~3,475 km  <a className="cursor-pointer" onClick={() => setPresetValue(3475, 'km')}>Try this?</a></p>
@@ -257,7 +257,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/mars.png" alt="Mars"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/mars.png?raw=true" alt="Mars"/>
                         </div>
                         <p id="marsNum">{conversionData.conversions.marsNum}</p>
                         <p>Mars&#39; diameter is ~6,779 km  <a className="cursor-pointer" onClick={() => setPresetValue(6779, 'km')}>Try this?</a></p>
@@ -265,7 +265,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-10 h-10" src="/src/assets/earth.png" alt="Earth"/>
+                            <img className="w-10 h-10" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/earth.png?raw=true" alt="Earth"/>
                         </div>
                         <p id="earthNum">{conversionData.conversions.earthNum}</p>
                         <p>The Earth&#39;s diameter is ~12,756 km  <a className="cursor-pointer" onClick={() => setPresetValue(12756, 'km')}>Try this?</a></p>
@@ -273,7 +273,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/jupiter.png" alt="Jupiter"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/jupiter.png?raw=true" alt="Jupiter"/>
                         </div>
                         <p id="jupiterNum">{conversionData.conversions.jupiterNum}</p>
                         <p>Jupiter&#39;s diameter is ~142,984 km  <a className="cursor-pointer" onClick={() => setPresetValue(142984, 'km')}>Try this?</a></p>
@@ -281,7 +281,7 @@ export default function App() {
 
                     <div className="child rounded-md flex flex-col justify-center items-center">
                         <div className="flex flex-row my-1">
-                            <img className="w-8 h-8" src="/src/assets/sun.png" alt="Sun"/>
+                            <img className="w-8 h-8" src="https://github.com/mrkdsoftware/react-size-converter/blob/main/src/assets/sun.png?raw=true" alt="Sun"/>
                         </div>
                         <p id="sunNum">{conversionData.conversions.sunNum}</p>
                         <p>The Sun&#39;s diameter is ~1,392,700 km  <a className="cursor-pointer" onClick={() => setPresetValue(1392700, 'km')}>Try this?</a></p>
