@@ -19,4 +19,4 @@ Instantly see how many of the selected object would fit in the given size! <br>
 </ul>
 
 ## 🌍 Live Demo
-Check out the live version of the website here: <a href="https://mrkdsoftware.github.io/size_converter/">Size Comparer Live</a>
+Check out the live version of the website here: <a href="https://react-size-converter.vercel.app">Size Comparer Live</a>
